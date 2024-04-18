@@ -1,8 +1,8 @@
 
 
 
-## Was ist Politikwissenschaft
-Die Politikwissenschaft untersucht Prozesse der politischen Willensbildung, Fragen der Regierungstätigkeit, die Beziehungen zwischen staatlichen, wirtschaftlichen und gesellschaftlichen Akteuren, die Beziehungen zwischen Staaten, sowie die Tätigkeit internationaler Organisationen.
+## Was ist Politikwissenschaft?
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
 >[!Danger] Mehr Informationen
 >[UZH-Webseite](https://www.uzh.ch/cmsssl/de/studies/programs/bachelor/political_science.html)
 
@@ -20,6 +20,6 @@ Die Politikwissenschaft untersucht Prozesse der politischen Willensbildung, Frag
 
 
 ## Verwandte Schulfächer
-[[Mathe]]
+[[Mathe]] 
 
 [[Deutsch]]
