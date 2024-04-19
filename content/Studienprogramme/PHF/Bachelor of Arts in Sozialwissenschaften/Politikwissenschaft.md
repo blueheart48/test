@@ -12,7 +12,7 @@ text text text text text text text text text text text text text text text text 
 
 [[Soziologie]]
 
-## Gehört zu 
+## Gehört zu (Ab jetzt weglassen)
 
 #PhF
 
@@ -20,6 +20,6 @@ text text text text text text text text text text text text text text text text 
 
 
 ## Verwandte Schulfächer
-[[Mathe]] 
+[[SF Biologie]] 
 
-[[Deutsch]]
+[[SF Bildnerisches Gestalten]]

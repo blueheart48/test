@@ -1,3 +1,3 @@
-#PhF
+## Ähnliche Studienprogramme
 
-#Bachelor_of_Arts_in_Sozialwissenschaften
+## Verwandte Schulfächer
