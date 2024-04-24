@@ -47,7 +47,7 @@ const defaultOptions: GraphOptions = {
     scale: 0.9,
     repelForce: 1,
     centerForce: 0.3,
-    linkDistance: 80,
+    linkDistance: 150,
     fontSize: 0.6,
     opacityScale: 10,
     showTags: true,
