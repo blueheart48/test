@@ -49,7 +49,7 @@ const defaultOptions: GraphOptions = {
     centerForce: 0.5,
     linkDistance: 100,
     fontSize: 0.4,
-    opacityScale: 0.01,
+    opacityScale: 1,
     showTags: true,
     removeTags: [],
     focusOnHover: true,
