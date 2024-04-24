@@ -1,16 +1,16 @@
 ## Ähnliche Studienprogramme
-[[Erziehungswissenschaft]]
-
-[[Psychologie]]
+[[Humanmedizin]]
 
 [[Soziologie]]
 
-[[Philosophie]]
+[[Politikwissenschaft]]
 
-[[Populäre Kulturen]]
+[[Ethnologie]]
+
+[[Kommunikationswissenschaft und Medienforschung]]
 ## Verwandte Schulfächer
 [[SF Psychologie und Pädagogik]]
 
-[[SF Deutsch]]
+[[SF Biologie]]
 
 [[SF Philosophie]]

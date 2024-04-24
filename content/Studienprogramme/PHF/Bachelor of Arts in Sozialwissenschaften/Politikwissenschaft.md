@@ -1,25 +1,16 @@
-
-
-
-## Was ist Politikwissenschaft?
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
->[!Danger] Mehr Informationen
->[UZH-Webseite](https://www.uzh.ch/cmsssl/de/studies/programs/bachelor/political_science.html)
-
-
 ## Ähnliche Studienprogramme
 [[Ethnologie]]
 
-[[Soziologie]]
+[[Volkswirtschaftslehre]]
 
-## Gehört zu (Ab jetzt weglassen)
+[[Philosophie]]
 
-#PhF
+[[Geographie]]
 
-#Bachelor_of_Arts_in_Sozialwissenschaften
-
-
+[[Geschichte]]
 ## Verwandte Schulfächer
-[[SF Biologie]] 
+[[SF Geografie]]
 
-[[SF Bildnerisches Gestalten]]
+[[SF Geschichte]]
+
+[[SF Wirtschaft und Recht]]
