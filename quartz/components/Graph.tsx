@@ -45,7 +45,7 @@ const defaultOptions: GraphOptions = {
     zoom: true,
     depth: -1,
     scale: 0.9,
-    repelForce: 19,
+    repelForce: 10,
     centerForce: 0.1,
     linkDistance: 200,
     fontSize: 0.4,
