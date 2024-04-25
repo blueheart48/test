@@ -1,3 +1,15 @@
+
+
+# Intro
+Text Text Text Text Text TextText Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text 
+https://www.uzh.ch/cmsssl/de/studies/programs/bachelor/political_science.html
+
+
+
+
+
+
+
 ## Ähnliche Studienprogramme
 [[Ethnologie]]
 
